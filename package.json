@@ -1,0 +1,9 @@
+{
+  "name": "AngularWorkshop2014",
+  "version": "1.0.0",
+  "devDependencies": {
+    "grunt": "^0.4.4",
+    "gulp": "^3.4.0",
+    "karma": "^0.12.5"
+  }
+}
